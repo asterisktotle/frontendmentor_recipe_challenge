@@ -128,14 +128,14 @@ td:nth-child(even){
 
 }
 
-@media (min-width: 350px){
+/* @media (min-width: 350px){
    .wrapper{
       margin: 0 auto;
    }
    img{
       width: 100%;
       min-width: 200px;
-   }
+   } */
 }
 @media (max-width: 1440px) {
    .wrapper{
